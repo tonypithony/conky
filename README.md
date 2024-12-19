@@ -1,8 +1,8 @@
-![]()
+![](https://raw.githubusercontent.com/tonypithony/conky/refs/heads/main/conkyUbuntu.PNG)
 
-![]()
+![](https://raw.githubusercontent.com/tonypithony/conky/refs/heads/main/conkyLinuxMint.png)
 
-![]()
+![](https://raw.githubusercontent.com/tonypithony/conky/refs/heads/main/lplbyPOePVA.jpg)
 
 # Source
 
